@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shokhecom
+- 👋 Hi, I’m @Shokhrukhbek Sulkhonov
 - 👀 I’m interested in Fintech, CD/CI, Venture 
 - 🌱 I’m currently learning Excel
 - 💞️ I’m looking to collaborate on ...
